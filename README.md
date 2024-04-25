@@ -1,3 +1,10 @@
+
+https://shields.io/github/stars/foxlox/GIUDA
+
+https://shields.io/github/stars/AliDehbansiahkarbon/EasyDBMigrator
+
+
+
 # DelphiTopTen
 
 ## This is a list of the top ten Pascal repositories, sorted by year
@@ -5,9 +12,9 @@
 
 # 🟣2023-2024🟣
 
-|**Name**|**Maintainer**|**Address**|**Description**|
-|:--:|:--:|:--:|:--|
-|**GIUDA**|[foxlox](https://github.com/foxlox)|[GIUDA](https://github.com/foxlox/GIUDA)|Ask a TGS on behalf of another user without password|
+|**Name**|**Maintainer**|**Address**|**Description**|**⭐**|
+|:--:|:--:|:--:|:--|-|
+|**GIUDA**|[foxlox](https://github.com/foxlox)|[GIUDA](https://github.com/foxlox/GIUDA)|Ask a TGS on behalf of another user without password| https://shields.io/github/stars/foxlox/GIUDA|
 |**Pack**|[PackOrganization](https://github.com/PackOrganization)|[Pack](https://github.com/PackOrganization/Pack)|[https://pack.ac]|
 |**ExifToolGui**|[FrankBijnen](https://github.com/FrankBijnen)|[ExifToolGui](https://github.com/FrankBijnen/ExifToolGui)|A GUI for ExifTool|
 |**dosfetch**|[leahneukirchen](https://github.com/leahneukirchen)|[dosfetch](https://github.com/leahneukirchen/dosfetch)|NeoFetch clone for DOS|
