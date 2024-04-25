@@ -9,7 +9,7 @@
 # 🟣2023-2024🟣
 
 |**Name**|**Maintainer**|**Address**|**Description**|**⭐**|
-|:--:|:--:|:--:|:--|--|
+|:--:|:--:|:--:|:--| --|
 |**GIUDA**|[foxlox](https://github.com/foxlox)|[GIUDA](https://github.com/foxlox/GIUDA)|Ask a TGS on behalf of another user without password| <img width="800" height="35" src="https://img.shields.io/github/stars/AliDehbansiahkarbon/ChatGPTWizard.svg" alt="stars"> |
 |**Pack**|[PackOrganization](https://github.com/PackOrganization)|[Pack](https://github.com/PackOrganization/Pack)|[https://pack.ac]| <img width="800" height="35" src="https://img.shields.io/github/stars/PackOrganization/Pack.svg" alt="stars"> |
 |**ExifToolGui**|[FrankBijnen](https://github.com/FrankBijnen)|[ExifToolGui](https://github.com/FrankBijnen/ExifToolGui)|A GUI for ExifTool| <img width="800" height="35" src="https://img.shields.io/github/stars/FrankBijnen/ExifToolGui.svg" alt="stars"> |
