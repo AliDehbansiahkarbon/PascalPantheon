@@ -1,7 +1,10 @@
-# DelphiTopTen
+<h1 style="text-align: center;"> 🟢🟢🟢 Pascal Pantheon 🟢🟢🟢 </h1>
 
-## This is a list of the top ten Pascal repositories, sorted by year
+<hr>
 
+# This is a list of the top ten Pascal repositories, sorted by star count and categorized by year.
+
+<hr>
 
 # 🟣2023-2024🟣
 
