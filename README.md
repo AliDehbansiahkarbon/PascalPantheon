@@ -24,6 +24,25 @@
 <br>
 <hr>
 
+# 🟣00000000000🟣
+
+|**Maintainer**|**Address**|**Description**|**⭐**|
+|:--:|:--:|:--|--|
+|[DarkCoderSc](https://github.com/DarkCoderSc)|[SubSeven](https://github.com/DarkCoderSc/SubSeven)|SubSeven Legacy Official Source Code Repository| <img width="800" height="35" src="https://img.shields.io/github/stars/DarkCoderSc/SubSeven.svg" alt="stars"> |
+|[benjamimgois](https://github.com/benjamimgois)|[goverlay](https://github.com/benjamimgois/goverlay)|GOverlay is an open-source project that aims to create a Graphical UI to help manage Linux overlays.| <img width="800" height="35" src="https://img.shields.io/github/stars/benjamimgois/goverlay.svg" alt="stars"> |
+|[HemulGM](https://github.com/HemulGM)|[ChatGPT](https://github.com/HemulGM/ChatGPT)|ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux)| <img width="800" height="35" src="https://img.shields.io/github/stars/HemulGM/ChatGPT.svg" alt="stars"> |
+|[Kisspeace](https://github.com/Kisspeace)|[NsfwBox](https://github.com/Kisspeace/NsfwBox)|Cross-platform app for searching and downloading porn| <img width="800" height="35" src="https://img.shields.io/github/stars/Kisspeace/NsfwBox.svg" alt="stars"> |
+|[AliDehbansiahkarbon](https://github.com/AliDehbansiahkarbon)|[ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard)|A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE 10.1 and later versions.| <img width="800" height="35" src="https://img.shields.io/github/stars/AliDehbansiahkarbon/ChatGPTWizard.svg" alt="stars"> |
+|[HemulGM](https://github.com/HemulGM)|[DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI)|OpenAI API wrapper for Delphi. Use ChatGPT, DALL-E, Whisper, and other products.| <img width="800" height="35" src="https://img.shields.io/github/stars/HemulGM/DelphiOpenAI.svg" alt="stars"> |
+|[PhrozenIO](https://github.com/PhrozenIO)|[PsyloDbg](https://github.com/PhrozenIO/PsyloDbg)|User-friendly Microsoft Windows Debugger for Malware Analysts.| <img width="800" height="35" src="https://img.shields.io/github/stars/PhrozenIO/PsyloDbg.svg" alt="stars"> |
+|[wppconnect-team](https://github.com/wppconnect-team)|[WPP4Delphi](https://github.com/wppconnect-team/WPP4Delphi)|WPP4Delphi is an open-source project with the aim of exporting functions from WhatsApp Web for Delphi, which can be used to support the creation of any interaction.| <img width="800" height="35" src="https://img.shields.io/github/stars/wppconnect-team/WPP4Delphi.svg" alt="stars"> |
+|[teppicom](https://github.com/teppicom)|[RealThinClient-SDK](https://github.com/teppicom/RealThinClient-SDK)|RealThinClient SDK - Delphi components for building HTTP(S) applications| <img width="800" height="35" src="https://img.shields.io/github/stars/teppicom/RealThinClient-SDK.svg" alt="stars"> |
+|[URUWorks](https://github.com/URUWorks)|[TeroSubtitler](https://github.com/URUWorks/TeroSubtitler)|Tero Subtitler is an open-source, cross-platform, and free subtitle editing software.| <img width="800" height="35" src="https://img.shields.io/github/stars/URUWorks/TeroSubtitler.svg" alt="stars"> |
+
+
+<br>
+<hr>
+
 # 🟣2022-2023🟣
 
 |**Name**|**Maintainer**|**Address**|**Description**|**⭐**|
