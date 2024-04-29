@@ -5,7 +5,7 @@
 
 <hr>
 
-# This is a list of the top ten Pascal repositories, sorted by star count and categorized by year.
+#Here is a categorized list of the top ten Pascal repositories based on their all-time star count, sorted by year.
 
 <hr>
 
