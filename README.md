@@ -42,7 +42,6 @@
 |[dataset-generator](https://github.com/bogdanpolak/dataset-generator)|[bogdanpolak](https://github.com/bogdanpolak)|DataSet Generator - generate code constructing fake memory dataset|<img width="400" height="30" src="https://img.shields.io/github/stars/bogdanpolak/dataset-generator.svg" alt="stars">|
 |[MVC_AR_EntityGenerator](https://github.com/juanccilleruelo/MVC_AR_EntityGenerator)|[juanccilleruelo](https://github.com/juanccilleruelo)|Datasets properties to generate MVCActiveRecord Descendants classes and more.|<img width="400" height="30" src="https://img.shields.io/github/stars/juanccilleruelo/MVC_AR_EntityGenerator.svg" alt="stars">|
 |[WinRTCrypto](https://github.com/SchneiderInfosystems/WinRTCrypto)|[SchneiderInfosystems](https://github.com/SchneiderInfosystems)|encryption AES, RSA, ...|<img width="400" height="30" src="https://img.shields.io/github/stars/SchneiderInfosystems/WinRTCrypto.svg" alt="stars">|
-<!---  |[]()|[]()||<img width="400" height="30" src="https://img.shields.io/github/stars/.svg" alt="stars">| -->
 
 
 <hr>
