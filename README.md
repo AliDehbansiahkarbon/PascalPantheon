@@ -17,10 +17,13 @@
 
 |**Repo**|**Maintainer**|**Description**|**⭐**|
 |:--:|:--:|:--|--|
+|[CEF4Delphi](https://github.com/salvadordf/CEF4Delphi)|[salvadordf](https://github.com/salvadordf)|CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.|<img width="400" height="30" src="https://img.shields.io/github/stars/salvadordf/CEF4Delphi.svg" alt="stars">|
 |[Virtual-TreeView](https://github.com/JAM-Software/Virtual-TreeView)|[JAM-Software](https://github.com/JAM-Software)|Virtual Treeview is a Delphi treeview control|<img width="400" height="30" src="https://img.shields.io/github/stars/JAM-Software/Virtual-TreeView.svg" alt="stars">|
+|[delphi-jose-jwt](https://github.com/paolo-rossi/delphi-jose-jwt)|[paolo-rossi](https://github.com/paolo-rossi)|Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token) | <img width="400" height="30" src="https://img.shields.io/github/stars/paolo-rossi/delphi-jose-jwt.svg" alt="stars">|
+|[MARS](https://github.com/andrea-magni/MARS)|[andrea-magni](https://github.com/andrea-magni)|MARS-Curiosity Delphi REST Library|<img width="400" height="30" src="https://img.shields.io/github/stars/andrea-magni/MARS.svg" alt="stars">|
 |[x-superobject](https://github.com/onryldz/x-superobject)|[onryldz](https://github.com/onryldz)|Delphi Cross Platform Rapid JSON|<img width="400" height="30" src="https://img.shields.io/github/stars/onryldz/x-superobject.svg" alt="stars">|
-|[FB4D](https://github.com/SchneiderInfosystems/FB4D)|[SchneiderInfosystems](https://github.com/SchneiderInfosystems)|Open Source Library for connecting Firebase by Delphi VCL/FMX|<img width="400" height="30" src="https://img.shields.io/github/stars/SchneiderInfosystems/FB4D.svg" alt="stars">|
 |[TFrameStand](https://github.com/andrea-magni/TFrameStand)|[andrea-magni](https://github.com/andrea-magni)|TFrameStand and TFormStand components for Delphi FireMonkey (FMX)|<img width="400" height="30" src="https://img.shields.io/github/stars/andrea-magni/TFrameStand.svg" alt="stars">|
+|[FB4D](https://github.com/SchneiderInfosystems/FB4D)|[SchneiderInfosystems](https://github.com/SchneiderInfosystems)|Open Source Library for connecting Firebase by Delphi VCL/FMX|<img width="400" height="30" src="https://img.shields.io/github/stars/SchneiderInfosystems/FB4D.svg" alt="stars">|
 |[FMXER](https://github.com/andrea-magni/FMXER)|[andrea-magni](https://github.com/andrea-magni)|Visual framework (Flutter inspired) for FMX|<img width="400" height="30" src="https://img.shields.io/github/stars/andrea-magni/FMXER.svg" alt="stars">|
 |[P4D-Data-Sciences](https://github.com/Embarcadero/P4D-Data-Sciences)|[Embarcadero](https://github.com/Embarcadero)|A collection of lightweight Python wrappers based on Python4Delphi simplifying Data Sciences development with Delphi|<img width="400" height="30" src="https://img.shields.io/github/stars/Embarcadero/P4D-Data-Sciences.svg" alt="stars">|
 |[graphql](https://github.com/lminuti/graphql)|[lminuti](https://github.com/lminuti)|GraphQL for Delphi|<img width="400" height="30" src="https://img.shields.io/github/stars/lminuti/graphql.svg" alt="stars">|
@@ -37,7 +40,8 @@
 |[puremvc-delphi-standard-framework](https://github.com/PureMVC/puremvc-delphi-standard-framework)|[PureMVC](https://github.com/PureMVC)|PureMVC Standard Framework for Delphi|<img width="400" height="30" src="https://img.shields.io/github/stars/PureMVC/puremvc-delphi-standard-framework.svg" alt="stars">|
 |[dataset-generator](https://github.com/bogdanpolak/dataset-generator)|[bogdanpolak](https://github.com/bogdanpolak)|DataSet Generator - generate code constructing fake memory dataset|<img width="400" height="30" src="https://img.shields.io/github/stars/bogdanpolak/dataset-generator.svg" alt="stars">|
 |[MVC_AR_EntityGenerator](https://github.com/juanccilleruelo/MVC_AR_EntityGenerator)|[juanccilleruelo](https://github.com/juanccilleruelo)|Datasets properties to generate MVCActiveRecord Descendants classes and more.|<img width="400" height="30" src="https://img.shields.io/github/stars/juanccilleruelo/MVC_AR_EntityGenerator.svg" alt="stars">|
-<!---  |[]()|[]()||<img width="400" height="30" src="https://img.shields.io/github/stars/.svg" alt="stars">|   -->
+|[WinRTCrypto](https://github.com/SchneiderInfosystems/WinRTCrypto)|[SchneiderInfosystems](https://github.com/SchneiderInfosystems)|encryption AES, RSA, ...|<img width="400" height="30" src="https://img.shields.io/github/stars/SchneiderInfosystems/WinRTCrypto.svg" alt="stars">|
+<!---  |[]()|[]()||<img width="400" height="30" src="https://img.shields.io/github/stars/.svg" alt="stars">| -->
 
 
 <hr>
