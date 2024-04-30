@@ -9,6 +9,37 @@
 
 <hr>
 
+## 🟣🟣There are some useful repositories that may not be listed in the top ten but are still impressive and neglected. To address this, a separate category has been created for such repositories. If you know of any repository like this, please feel free to contribute or message me.
+
+<hr>
+
+# None top-ten but still incredibly useful, impressive, and innovative.
+
+|**Repo**|**Maintainer**|**Description**|**⭐**|
+|:--:|:--:|:--|--|
+|[Virtual-TreeView](https://github.com/JAM-Software/Virtual-TreeView)|[JAM-Software](https://github.com/JAM-Software)|Virtual Treeview is a Delphi treeview control|<img width="400" height="30" src="https://img.shields.io/github/stars/JAM-Software/Virtual-TreeView.svg" alt="stars">|
+|[x-superobject](https://github.com/onryldz/x-superobject)|[onryldz](https://github.com/onryldz)|Delphi Cross Platform Rapid JSON|<img width="400" height="30" src="https://img.shields.io/github/stars/onryldz/x-superobject.svg" alt="stars">|
+|[FB4D](https://github.com/SchneiderInfosystems/FB4D)|[SchneiderInfosystems](https://github.com/SchneiderInfosystems)|Open Source Library for connecting Firebase by Delphi VCL/FMX|<img width="400" height="30" src="https://img.shields.io/github/stars/SchneiderInfosystems/FB4D.svg" alt="stars">|
+|[P4D-Data-Sciences](https://github.com/Embarcadero/P4D-Data-Sciences)|[Embarcadero](https://github.com/Embarcadero)|A collection of lightweight Python wrappers based on Python4Delphi simplifying Data Sciences development with Delphi|<img width="400" height="30" src="https://img.shields.io/github/stars/Embarcadero/P4D-Data-Sciences.svg" alt="stars">|
+|[graphql](https://github.com/lminuti/graphql)|[lminuti](https://github.com/lminuti)|GraphQL for Delphi|<img width="400" height="30" src="https://img.shields.io/github/stars/lminuti/graphql.svg" alt="stars">|
+|[ArrayHelper](https://github.com/WilliCommer/ArrayHelper)|[WilliCommer](https://github.com/WilliCommer)|Delphi class helper for TArray. Class functions Add, Delete, IndexOf, Map and more, including examples and test.|<img width="400" height="30" src="https://img.shields.io/github/stars/WilliCommer/ArrayHelper.svg" alt="stars">|
+|[Roselt-Developer-Tools](https://github.com/shaunroselt/Roselt-Developer-Tools)|[shaunroselt](https://github.com/shaunroselt)|Collection of utilities for developers.|<img width="400" height="30" src="https://img.shields.io/github/stars/shaunroselt/Roselt-Developer-Tools.svg" alt="stars">|
+|[DynamicDataObjects](https://github.com/SeanSolberg/DynamicDataObjects)|[SeanSolberg](https://github.com/SeanSolberg)|This Delphi code library lets you model structured data and serialize to/from : CBOR, JSON, MessagePack msgpack.org[Delphi], ION, UBJSON, BSON, Smile, DataObj, etc|<img width="400" height="30" src="https://img.shields.io/github/stars/SeanSolberg/DynamicDataObjects.svg" alt="stars">|
+|[ChatGPTPluginForLazarus](https://github.com/AliDehbansiahkarbon/ChatGPTPluginForLazarus)|[AliDehbansiahkarbon](https://github.com/AliDehbansiahkarbon)|An OpenAI (ChatGPT) plug-in for Lazarus IDE.|<img width="400" height="30" src="https://img.shields.io/github/stars/AliDehbansiahkarbon/ChatGPTPluginForLazarus.svg" alt="stars">|
+|[Code4D-Wizard](https://github.com/Code4Delphi/Code4D-Wizard)|[Code4Delphi](https://github.com/Code4Delphi)|Wizard for Delphi IDE - Open Tools API|<img width="400" height="30" src="https://img.shields.io/github/stars/Code4Delphi/Code4D-Wizard.svg" alt="stars">|
+|[ipub-refit](https://github.com/viniciusfbb/ipub-refit)|[viniciusfbb](https://github.com/viniciusfbb)|Simple way to consume REST services|<img width="400" height="30" src="https://img.shields.io/github/stars/viniciusfbb/ipub-refit.svg" alt="stars">|
+|[AzureBlobStorageClientLibrary](https://github.com/AliDehbansiahkarbon/AzureBlobStorageClientLibrary)|[AliDehbansiahkarbon](https://github.com/AliDehbansiahkarbon)|A super easy to use library to work with Azure storage using Embarcadero Delphi.|<img width="400" height="30" src="https://img.shields.io/github/stars/AliDehbansiahkarbon/AzureBlobStorageClientLibrary.svg" alt="stars">|
+|[AWS4Delphi](https://github.com/gabrielbaltazar/AWS4Delphi)|[gabrielbaltazar](https://github.com/gabrielbaltazar)|The AWS4Delphi is a Delphi SDK to integrate with AWS services with delphi quickly and simply.|<img width="400" height="30" src="https://img.shields.io/github/stars/gabrielbaltazar/AWS4Delphi.svg" alt="stars">|
+|[ToolsAPI-helper](https://github.com/GDKsoftware/ToolsAPI-helper)|[GDKsoftware](https://github.com/GDKsoftware)|This library contains several helpers and classes to make working with the ToolsAPI much easier.|<img width="400" height="30" src="https://img.shields.io/github/stars/GDKsoftware/ToolsAPI-helper.svg" alt="stars">|
+|[Advance-TaskDialog](https://github.com/AliDehbansiahkarbon/Advance-TaskDialog)|[AliDehbansiahkarbon](https://github.com/AliDehbansiahkarbon)|A Custom TaskDialog with getting theme automatically, opposite the original one!|<img width="400" height="30" src="https://img.shields.io/github/stars/AliDehbansiahkarbon/Advance-TaskDialog.svg" alt="stars">|
+|[puremvc-delphi-standard-framework](https://github.com/PureMVC/puremvc-delphi-standard-framework)|[PureMVC](https://github.com/PureMVC)|PureMVC Standard Framework for Delphi|<img width="400" height="30" src="https://img.shields.io/github/stars/PureMVC/puremvc-delphi-standard-framework.svg" alt="stars">|
+|[dataset-generator](https://github.com/bogdanpolak/dataset-generator)|[bogdanpolak](https://github.com/bogdanpolak)|DataSet Generator - generate code constructing fake memory dataset|<img width="400" height="30" src="https://img.shields.io/github/stars/bogdanpolak/dataset-generator.svg" alt="stars">|
+|[MVC_AR_EntityGenerator](https://github.com/juanccilleruelo/MVC_AR_EntityGenerator)|[juanccilleruelo](https://github.com/juanccilleruelo)|Datasets properties to generate MVCActiveRecord Descendants classes and more.|<img width="400" height="30" src="https://img.shields.io/github/stars/juanccilleruelo/MVC_AR_EntityGenerator.svg" alt="stars">|
+<!---  |[]()|[]()||<img width="400" height="30" src="https://img.shields.io/github/stars/.svg" alt="stars">|   -->
+
+
+<hr>
+
 # 🟣2023-2024🟣
 
 |**Repo**|**Maintainer**|**Description**|**⭐**|
