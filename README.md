@@ -80,8 +80,8 @@
 |[DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI)/[HemulGM](https://github.com/HemulGM)|OpenAI API wrapper for Delphi. Use ChatGPT, DALL-E, Whisper, and other products.| <img width="400" height="30" src="https://img.shields.io/github/stars/HemulGM/DelphiOpenAI.svg" alt="stars"> |
 |[PsyloDbg](https://github.com/PhrozenIO/PsyloDbg)/[PhrozenIO](https://github.com/PhrozenIO)|User-friendly Microsoft Windows Debugger for Malware Analysts.| <img width="400" height="30" src="https://img.shields.io/github/stars/PhrozenIO/PsyloDbg.svg" alt="stars"> |
 |[WPP4Delphi](https://github.com/wppconnect-team/WPP4Delphi)/[wppconnect-team](https://github.com/wppconnect-team)|WPP4Delphi is an open-source project with the aim of exporting functions from WhatsApp Web for Delphi, which can be used to support the creation of any interaction.| <img width="400" height="30" src="https://img.shields.io/github/stars/wppconnect-team/WPP4Delphi.svg" alt="stars"> |
-|[RealThinClient-SDK](https://github.com/teppicom/RealThinClient-SDK)/[teppicom](https://github.com/teppicom)|RealThinClient SDK - Delphi components for building HTTP(S) applications| <img width="400" height="30" src="https://img.shields.io/github/stars/teppicom/RealThinClient-SDK.svg" alt="stars"> |
 |[TeroSubtitler](https://github.com/URUWorks/TeroSubtitler)/[URUWorks](https://github.com/URUWorks)|Tero Subtitler is an open-source, cross-platform, and free subtitle editing software.| <img width="400" height="30" src="https://img.shields.io/github/stars/URUWorks/TeroSubtitler.svg" alt="stars"> |
+|[RealThinClient-SDK](https://github.com/teppicom/RealThinClient-SDK)/[teppicom](https://github.com/teppicom)|RealThinClient SDK - Delphi components for building HTTP(S) applications| <img width="400" height="30" src="https://img.shields.io/github/stars/teppicom/RealThinClient-SDK.svg" alt="stars"> |
 
 <br>
 <hr>
