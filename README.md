@@ -18,6 +18,9 @@
 |**Repo / Maintainer**|**Description**|**⭐**|
 |:--:|:--|--|
 |[CEF4Delphi](https://github.com/salvadordf/CEF4Delphi)/[salvadordf](https://github.com/salvadordf)|CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.|<img width="500" height="30" src="https://img.shields.io/github/stars/salvadordf/CEF4Delphi.svg" alt="stars">|
+|[Virtual-TreeView](https://github.com/JAM-Software/Virtual-TreeView)/[JAM-Software](https://github.com/JAM-Software)|Virtual Treeview is a Delphi treeview control|<img width="500" height="30" src="https://img.shields.io/github/stars/JAM-Software/Virtual-TreeView.svg" alt="stars">|
+|[cnwizards](https://github.com/cnpack/cnwizards)/[cnpack](https://github.com/cnpack)|CnPack IDE Wizards|<img width="500" height="30" src="https://img.shields.io/github/stars/cnpack/cnwizards.svg" alt="stars">|
+|[delphi-jose-jwt](https://github.com/paolo-rossi/delphi-jose-jwt)/[paolo-rossi](https://github.com/paolo-rossi)|Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token) | <img width="500" height="30" src="https://img.shields.io/github/stars/paolo-rossi/delphi-jose-jwt.svg" alt="stars">|
 
 
 <br>
