@@ -4,7 +4,7 @@
 
 <hr>
 
-# Here is a categorized list of the top ten Pascal repositories based on their all-time star count, sorted by year. ([Website View](https://alidehbansiahkarbon.github.io/PascalPantheon))
+# Here is a categorized list of the top ten Pascal repositories based on their all-time star count, sorted by year.<!--- ([Website View](https://alidehbansiahkarbon.github.io/PascalPantheon)) --> 
 <hr>
 
 ## 🟣🟣There are some useful repositories that may not be listed in the top ten but are still impressive and neglected. To address this, a separate category has been created for such repositories. If you know of any repository like this, please feel free to contribute or message me.
