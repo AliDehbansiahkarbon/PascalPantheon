@@ -12,7 +12,7 @@
 <hr>
 
 # None top-ten but still incredibly useful, impressive, and innovative.
-|**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
+|**Repo / Maintainer** / **Description(it's a hint)**|**⭐**| 
 |:--:|:--:|
 |[Virtual-TreeView](https://github.com/JAM-Software/Virtual-TreeView)/[JAM-Software](https://github.com/JAM-Software)/<span title="Virtual Treeview is a Delphi treeview control">Description</span>|<img  src="https://img.shields.io/github/stars/JAM-Software/Virtual-TreeView.svg" alt="stars"> <img src="https://img.shields.io/github/forks/JAM-Software/Virtual-TreeView.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/JAM-Software/Virtual-TreeView.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/JAM-Software/Virtual-TreeView.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/JAM-Software/Virtual-TreeView?category=code)](https://github.com/JAM-Software/Virtual-TreeView)|
 |[cnwizards](https://github.com/cnpack/cnwizards)/[cnpack](https://github.com/cnpack)/<span title="CnPack IDE Wizards">Description</span>|<img  src="https://img.shields.io/github/stars/cnpack/cnwizards.svg" alt="stars"> <img src="https://img.shields.io/github/forks/cnpack/cnwizards.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/cnpack/cnwizards.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/cnpack/cnwizards.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/cnpack/cnwizards?category=code)](https://github.com/cnpack/cnwizards)|
@@ -54,7 +54,9 @@
 |[MVC_AR_EntityGenerator](https://github.com/juanccilleruelo/MVC_AR_EntityGenerator)/[juanccilleruelo](https://github.com/juanccilleruelo)/<span title="Datasets properties to generate MVCActiveRecord Descendants classes and more.">Description</span>|<img  src="https://img.shields.io/github/stars/juanccilleruelo/MVC_AR_EntityGenerator.svg" alt="stars"> <img src="https://img.shields.io/github/forks/juanccilleruelo/MVC_AR_EntityGenerator.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/juanccilleruelo/MVC_AR_EntityGenerator.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/juanccilleruelo/MVC_AR_EntityGenerator.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/juanccilleruelo/MVC_AR_EntityGenerator?category=code)](https://github.com/juanccilleruelo/MVC_AR_EntityGenerator)|
 |[WinRTCrypto](https://github.com/SchneiderInfosystems/WinRTCrypto)/[SchneiderInfosystems](https://github.com/SchneiderInfosystems)/<span title="encryption AES, RSA, …">Description</span>|<img  src="https://img.shields.io/github/stars/SchneiderInfosystems/WinRTCrypto.svg" alt="stars"> <img src="https://img.shields.io/github/forks/SchneiderInfosystems/WinRTCrypto.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/SchneiderInfosystems/WinRTCrypto.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/SchneiderInfosystems/WinRTCrypto.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/SchneiderInfosystems/WinRTCrypto?category=code)](https://github.com/SchneiderInfosystems/WinRTCrypto)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2023-2024🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -70,7 +72,9 @@
 |[JVEsuite](https://github.com/yegork78/JVEsuite)/[yegork78](https://github.com/yegork78)/<span title="JVE Delphi Components Suite —[https://www.jvesoft.com/wp]">Description</span>|<img  src="https://img.shields.io/github/stars/yegork78/JVEsuite.svg" alt="stars"> <img src="https://img.shields.io/github/forks/yegork78/JVEsuite.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/yegork78/JVEsuite.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/yegork78/JVEsuite.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/yegork78/JVEsuite?category=code)](https://github.com/yegork78/JVEsuite)|
 |[CodeDroidAI](https://github.com/FMXExpress/CodeDroidAI)/[FMXExpress](https://github.com/FMXExpress)/<span title="Generate code and forms with AI for Delphi Object Pascal and C++Builder using LLMs like ChatGPT and Vicuna-13b.">Description</span>|<img  src="https://img.shields.io/github/stars/FMXExpress/CodeDroidAI.svg" alt="stars"> <img src="https://img.shields.io/github/forks/FMXExpress/CodeDroidAI.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/FMXExpress/CodeDroidAI.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/FMXExpress/CodeDroidAI.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/FMXExpress/CodeDroidAI?category=code)](https://github.com/FMXExpress/CodeDroidAI)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2022-2023🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -86,7 +90,9 @@
 |[TeroSubtitler](https://github.com/URUWorks/TeroSubtitler)/[URUWorks](https://github.com/URUWorks)/<span title="Tero Subtitler is an open-source, cross-platform, and free subtitle editing software.">Description</span>|<img  src="https://img.shields.io/github/stars/URUWorks/TeroSubtitler.svg" alt="stars"> <img src="https://img.shields.io/github/forks/URUWorks/TeroSubtitler.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/URUWorks/TeroSubtitler.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/URUWorks/TeroSubtitler.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/URUWorks/TeroSubtitler?category=code)](https://github.com/URUWorks/TeroSubtitler)|
 |[RealThinClient-SDK](https://github.com/teppicom/RealThinClient-SDK)/[teppicom](https://github.com/teppicom)/<span title="RealThinClient SDK - Delphi components for building HTTP(S) applications">Description</span>|<img  src="https://img.shields.io/github/stars/teppicom/RealThinClient-SDK.svg" alt="stars"> <img src="https://img.shields.io/github/forks/teppicom/RealThinClient-SDK.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/teppicom/RealThinClient-SDK.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/teppicom/RealThinClient-SDK.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/teppicom/RealThinClient-SDK?category=code)](https://github.com/teppicom/RealThinClient-SDK)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2021-2022🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -102,7 +108,9 @@
 |[NtTools](https://github.com/diversenok/NtTools)/[diversenok](https://github.com/diversenok)/<span title="Some random system tools for Windows">Description</span>|<img  src="https://img.shields.io/github/stars/diversenok/NtTools.svg" alt="stars"> <img src="https://img.shields.io/github/forks/diversenok/NtTools.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/diversenok/NtTools.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/diversenok/NtTools.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/diversenok/NtTools?category=code)](https://github.com/diversenok/NtTools)|
 |[Delphi-GCharts](https://github.com/JosepPages7/Delphi-GCharts)/[JosepPages7](https://github.com/JosepPages7)/<span title="Delphi-GCharts is a Delphi library of components to generate charts in uniGUI Framework using the Google Charts API">Description</span>|<img  src="https://img.shields.io/github/stars/JosepPages7/Delphi-GCharts.svg" alt="stars"> <img src="https://img.shields.io/github/forks/JosepPages7/Delphi-GCharts.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/JosepPages7/Delphi-GCharts.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/JosepPages7/Delphi-GCharts.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/JosepPages7/Delphi-GCharts?category=code)](https://github.com/JosepPages7/Delphi-GCharts)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2020-2021🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -118,7 +126,9 @@
 |[BoldForDelphi](https://github.com/Embarcadero/BoldForDelphi)/[Embarcadero](https://github.com/Embarcadero)/<span title="Bold for Delphi is a Model Driver Architecture (and ORM library) for Embarcadero Delphi">Description</span>|<img  src="https://img.shields.io/github/stars/Embarcadero/BoldForDelphi.svg" alt="stars"> <img src="https://img.shields.io/github/forks/Embarcadero/BoldForDelphi.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/Embarcadero/BoldForDelphi.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/Embarcadero/BoldForDelphi.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/Embarcadero/BoldForDelphi?category=code)](https://github.com/Embarcadero/BoldForDelphi)|
 |[rise-of-legions](https://github.com/BrokenGamesUG/rise-of-legions)/[BrokenGamesUG](https://github.com/BrokenGamesUG)/<span title="Rise of Legions is a hybrid of MOBA, tower defense, and deckbuilding - with a fast-paced, easy-to-pickup tug-of-war strategy. Play solo or bring a friend for co-op or 2v2, collect cards, build your deck, and crush your enemies.">Description</span>|<img  src="https://img.shields.io/github/stars/BrokenGamesUG/rise-of-legions.svg" alt="stars"> <img src="https://img.shields.io/github/forks/BrokenGamesUG/rise-of-legions.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/BrokenGamesUG/rise-of-legions.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/BrokenGamesUG/rise-of-legions.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/BrokenGamesUG/rise-of-legions?category=code)](https://github.com/BrokenGamesUG/rise-of-legions)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2019-2020🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -134,7 +144,9 @@
 |[FastMM5](https://github.com/pleriche/FastMM5)/[pleriche](https://github.com/pleriche)/<span title="FastMM is a fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files">Description</span>|<img  src="https://img.shields.io/github/stars/pleriche/FastMM5.svg" alt="stars"> <img src="https://img.shields.io/github/forks/pleriche/FastMM5.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/pleriche/FastMM5.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/pleriche/FastMM5.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/pleriche/FastMM5?category=code)](https://github.com/pleriche/FastMM5)|
 |[xdpw](https://github.com/vtereshkov/xdpw)/[vtereshkov](https://github.com/vtereshkov)/<span title="XD Pascal: A small embeddable self-hosting Pascal compiler for Windows. Supports Go-style methods and interfaces">Description</span>|<img  src="https://img.shields.io/github/stars/vtereshkov/xdpw.svg" alt="stars"> <img src="https://img.shields.io/github/forks/vtereshkov/xdpw.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/vtereshkov/xdpw.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/vtereshkov/xdpw.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/vtereshkov/xdpw?category=code)](https://github.com/vtereshkov/xdpw)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2018-2019🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -150,7 +162,9 @@
 |[hUGETracker](https://github.com/SuperDisk/hUGETracker)/[SuperDisk](https://github.com/SuperDisk)/<span title="The music composition suite for the Nintendo Game Boy">Description</span>|<img  src="https://img.shields.io/github/stars/SuperDisk/hUGETracker.svg" alt="stars"> <img src="https://img.shields.io/github/forks/SuperDisk/hUGETracker.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/SuperDisk/hUGETracker.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/SuperDisk/hUGETracker.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/SuperDisk/hUGETracker?category=code)](https://github.com/SuperDisk/hUGETracker)|
 |[CubeExplorer](https://github.com/hkociemba/CubeExplorer)/[hkociemba](https://github.com/hkociemba)/<span title="A program about Rubik’s Cube with a lot of features.">Description</span>|<img  src="https://img.shields.io/github/stars/hkociemba/CubeExplorer.svg" alt="stars"> <img src="https://img.shields.io/github/forks/hkociemba/CubeExplorer.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/hkociemba/CubeExplorer.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/hkociemba/CubeExplorer.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/hkociemba/CubeExplorer?category=code)](https://github.com/hkociemba/CubeExplorer)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2017-2018🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -166,7 +180,9 @@
 |[CryptoLib4Pascal](https://github.com/Xor-el/CryptoLib4Pascal)/[Xor-el](https://github.com/Xor-el)/<span title="Crypto for Modern Object Pascal">Description</span>|<img  src="https://img.shields.io/github/stars/Xor-el/CryptoLib4Pascal.svg" alt="stars"> <img src="https://img.shields.io/github/forks/Xor-el/CryptoLib4Pascal.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/Xor-el/CryptoLib4Pascal.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/Xor-el/CryptoLib4Pascal.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/Xor-el/CryptoLib4Pascal?category=code)](https://github.com/Xor-el/CryptoLib4Pascal)|
 |[KastriFree](https://github.com/DelphiWorlds/KastriFree)/[DelphiWorlds](https://github.com/DelphiWorlds)/<span title="Free version of the Kastri library">Description</span>|<img  src="https://img.shields.io/github/stars/DelphiWorlds/KastriFree.svg" alt="stars"> <img src="https://img.shields.io/github/forks/DelphiWorlds/KastriFree.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/DelphiWorlds/KastriFree.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/DelphiWorlds/KastriFree.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/DelphiWorlds/KastriFree?category=code)](https://github.com/DelphiWorlds/KastriFree)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2016-2017🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -182,7 +198,9 @@
 |[PascalCoin](https://github.com/PascalCoinDev/PascalCoin)/[PascalCoinDev](https://github.com/PascalCoinDev)/<span title="P2P cryptocurrency without need of historical operations">Description</span>|<img  src="https://img.shields.io/github/stars/PascalCoinDev/PascalCoin.svg" alt="stars"> <img src="https://img.shields.io/github/forks/PascalCoinDev/PascalCoin.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/PascalCoinDev/PascalCoin.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/PascalCoinDev/PascalCoin.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/PascalCoinDev/PascalCoin?category=code)](https://github.com/PascalCoinDev/PascalCoin)|
 |[C-To-Delphi](https://github.com/WouterVanNifterick/C-To-Delphi)/[WouterVanNifterick](https://github.com/WouterVanNifterick)/<span title="C To Delphi converter">Description</span>|<img  src="https://img.shields.io/github/stars/WouterVanNifterick/C-To-Delphi.svg" alt="stars"> <img src="https://img.shields.io/github/forks/WouterVanNifterick/C-To-Delphi.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/WouterVanNifterick/C-To-Delphi.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/WouterVanNifterick/C-To-Delphi.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/WouterVanNifterick/C-To-Delphi?category=code)](https://github.com/WouterVanNifterick/C-To-Delphi)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2015-2016🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -198,7 +216,9 @@
 |[delphi-ide-theme-editor](https://github.com/RRUZ/delphi-ide-theme-editor)/[RRUZ](https://github.com/RRUZ)/<span title="Custom color highlighting for Object Pascal IDE’s">Description</span>|<img  src="https://img.shields.io/github/stars/RRUZ/delphi-ide-theme-editor.svg" alt="stars"> <img src="https://img.shields.io/github/forks/RRUZ/delphi-ide-theme-editor.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/RRUZ/delphi-ide-theme-editor.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/RRUZ/delphi-ide-theme-editor.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/RRUZ/delphi-ide-theme-editor?category=code)](https://github.com/RRUZ/delphi-ide-theme-editor)|
 |[Remote-Access-Trojan](https://github.com/malwares/Remote-Access-Trojan)/[malwares](https://github.com/malwares)/<span title="Windows Remote-Access-Trojan">Description</span>|<img  src="https://img.shields.io/github/stars/malwares/Remote-Access-Trojan.svg" alt="stars"> <img src="https://img.shields.io/github/forks/malwares/Remote-Access-Trojan.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/malwares/Remote-Access-Trojan.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/malwares/Remote-Access-Trojan.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/malwares/Remote-Access-Trojan?category=code)](https://github.com/malwares/Remote-Access-Trojan)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2014-2015🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -214,7 +234,9 @@
 |[LibreCrypt](https://github.com/t-d-k/LibreCrypt)/[t-d-k](https://github.com/t-d-k)/<span title="LibreCrypt: Transparent on-the-fly disk encryption for Windows. LUKS compatible">Description</span>|<img  src="https://img.shields.io/github/stars/t-d-k/LibreCrypt.svg" alt="stars"> <img src="https://img.shields.io/github/forks/t-d-k/LibreCrypt.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/t-d-k/LibreCrypt.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/t-d-k/LibreCrypt.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/t-d-k/LibreCrypt?category=code)](https://github.com/t-d-k/LibreCrypt)|
 |[FMD](https://github.com/riderkick/FMD)/[riderkick](https://github.com/riderkick)/<span title="The Free Manga Downloader">Description</span>|<img  src="https://img.shields.io/github/stars/riderkick/FMD.svg" alt="stars"> <img src="https://img.shields.io/github/forks/riderkick/FMD.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/riderkick/FMD.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/riderkick/FMD.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/riderkick/FMD?category=code)](https://github.com/riderkick/FMD)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2013-2014🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -230,7 +252,9 @@
 |[fhirserver](https://github.com/HealthIntersections/fhirserver)/[HealthIntersections](https://github.com/HealthIntersections)/<span title="Reference Implementation Server for the FHIR Specification">Description</span>|<img  src="https://img.shields.io/github/stars/HealthIntersections/fhirserver.svg" alt="stars"> <img src="https://img.shields.io/github/forks/HealthIntersections/fhirserver.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/HealthIntersections/fhirserver.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/HealthIntersections/fhirserver.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/HealthIntersections/fhirserver?category=code)](https://github.com/HealthIntersections/fhirserver)|
 |[DxAutoInstaller](https://github.com/Delphier/DxAutoInstaller)/[Delphier](https://github.com/Delphier)/<span title="DevExpress VCL Components Automatic Installer">Description</span>|<img  src="https://img.shields.io/github/stars/Delphier/DxAutoInstaller.svg" alt="stars"> <img src="https://img.shields.io/github/forks/Delphier/DxAutoInstaller.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/Delphier/DxAutoInstaller.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/Delphier/DxAutoInstaller.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/Delphier/DxAutoInstaller?category=code)](https://github.com/Delphier/DxAutoInstaller)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2012-2013🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -246,7 +270,9 @@
 |[lazarus](https://github.com/alrieckert/lazarus)/[alrieckert](https://github.com/alrieckert)/<span title="Free Pascal Lazarus Project - Sync’ed with Lazarus SubVersion trunk every 15 minutes">Description</span>|<img  src="https://img.shields.io/github/stars/alrieckert/lazarus.svg" alt="stars"> <img src="https://img.shields.io/github/forks/alrieckert/lazarus.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/alrieckert/lazarus.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/alrieckert/lazarus.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/alrieckert/lazarus?category=code)](https://github.com/alrieckert/lazarus)|
 |[delphi](https://github.com/freeonterminate/delphi)/[freeonterminate](https://github.com/freeonterminate)/<span title="delphi sources">Description</span>|<img  src="https://img.shields.io/github/stars/freeonterminate/delphi.svg" alt="stars"> <img src="https://img.shields.io/github/forks/freeonterminate/delphi.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/freeonterminate/delphi.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/freeonterminate/delphi.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/freeonterminate/delphi?category=code)](https://github.com/freeonterminate/delphi)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2011-2012🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
@@ -262,7 +288,9 @@
 |[Delphi-EmbeddedWB](https://github.com/ghquant/Delphi-EmbeddedWB)/[ghquant](https://github.com/ghquant)/<span title="inofficial mirror of Delphi Embedded Web Browser (http://www.bsalsa.com/), additional XE2 branch">Description</span>|<img  src="https://img.shields.io/github/stars/ghquant/Delphi-EmbeddedWB.svg" alt="stars"> <img src="https://img.shields.io/github/forks/ghquant/Delphi-EmbeddedWB.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/ghquant/Delphi-EmbeddedWB.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/ghquant/Delphi-EmbeddedWB.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/ghquant/Delphi-EmbeddedWB?category=code)](https://github.com/ghquant/Delphi-EmbeddedWB)|
 |[xxm](https://github.com/stijnsanders/xxm)/[stijnsanders](https://github.com/stijnsanders)/<span title="Combine Delphi and HTML code in the same source files to compile a website into a library that runs on IIS, Apache httpd, CGI, SCGI, on http.sys or raw no-frills HTTP…">Description</span>|<img  src="https://img.shields.io/github/stars/stijnsanders/xxm.svg" alt="stars"> <img src="https://img.shields.io/github/forks/stijnsanders/xxm.svg" alt="forks"> <img src="https://img.shields.io/github/watchers/stijnsanders/xxm.svg" alt="watchers"> <br> <img src="https://img.shields.io/github/issues-closed/stijnsanders/xxm.svg" alt="issues"></a> [![](https://tokei.rs/b1/github/stijnsanders/xxm?category=code)](https://github.com/stijnsanders/xxm)|
 
-<br><hr>
+<br>
+
+<hr>
 
 # 🟣2010-2011🟣
 |**Repo / Maintainer** / **Description(it's a hint)**|**⭐**|
