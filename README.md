@@ -9,8 +9,6 @@
 
 ## 🟣🟣There are some useful repositories that may not be listed in the top ten but are still impressive and neglected. To address this, a separate category has been created for such repositories. If you know of any repository like this, please feel free to contribute or message me.
 
-<hr>
-
 # None top-ten but still incredibly useful, impressive, and innovative.
 |**Repo / Maintainer** / **Description(it's a hint)**|⭐|
 |:--:|:--:|
