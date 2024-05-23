@@ -5,6 +5,7 @@
 <hr />
 
 # Here is a categorized list of the top ten Pascal repositories based on their all-time star count, sorted by year. ([Website View](https://alidehbansiahkarbon.github.io/PascalPantheon))
+
 <hr />
 
 ## 🟣🟣There are some useful repositories that may not be listed in the top ten but are still impressive and neglected. To address this, a separate category has been created for such repositories. If you know of any repository like this, please feel free to contribute or message me.
@@ -12,6 +13,7 @@
 <hr />
 
 # None top-ten but still incredibly useful, impressive, and innovative.
+
 |**Repo / Maintainer** / **Description(it's a hint)**|⭐|
 |:--:|:--:|
 |[Virtual-TreeView](https://github.com/JAM-Software/Virtual-TreeView)/[JAM-Software](https://github.com/JAM-Software)/<span title="Virtual Treeview is a Delphi treeview control">Description</span>|![GitHub last commit](https://img.shields.io/github/stars/JAM-Software/Virtual-TreeView) ![GitHub last commit](https://img.shields.io/github/forks/JAM-Software/Virtual-TreeView) ![GitHub last commit](https://img.shields.io/github/watchers/JAM-Software/Virtual-TreeView) <br> ![Github Created At](https://img.shields.io/github/created-at/JAM-Software/Virtual-TreeView)![GitHub last commit](https://img.shields.io/github/last-commit/JAM-Software/Virtual-TreeView)![GitHub commit activity](https://img.shields.io/github/commit-activity/t/JAM-Software/Virtual-TreeView) <br> ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/JAM-Software/Virtual-TreeView)![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/JAM-Software/Virtual-TreeView)![GitHub last commit](https://img.shields.io/github/issues-closed/JAM-Software/Virtual-TreeView)
