@@ -4,7 +4,7 @@
 
 <hr />
 
-# Last Update : 20-Jun-2024
+# Last Update : 22-July-2024
 
 # Here is a categorized list of the top ten Pascal repositories based on their all-time star count, sorted by year. ([Website View](https://alidehbansiahkarbon.github.io/PascalPantheon))
 
